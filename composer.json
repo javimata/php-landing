@@ -1,0 +1,14 @@
+{
+    "name": "javimata/php-landing",
+    "description": "A simple files for landings",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Javi Mata",
+            "email": "javimata@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    }
+}
