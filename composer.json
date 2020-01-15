@@ -2,7 +2,7 @@
     "name": "javimata/php-landing",
     "description": "A simple files for landings",
     "type": "library",
-    "license": "MIt",
+    "license": "MIT",
     "homepage": "https://github.com/javimata/php-landing",
     "authors": [
         {
@@ -12,5 +12,10 @@
     ],
     "require": {
         "php": ">=5.6"
-    }
+    },
+    "autoload": {
+        "psr-4": {
+            "JAVIMATA\\": "src/"
+        }
+    },
 }
