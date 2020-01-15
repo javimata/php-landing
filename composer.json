@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "javimata\\php-landing\\": "src/"
+            "Javimata\\Php-landing\\": "src/"
         }
-    },
+    }
 }
