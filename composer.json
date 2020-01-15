@@ -2,6 +2,8 @@
     "name": "javimata/php-landing",
     "description": "A simple files for landings",
     "type": "library",
+    "license": "MIt",
+    "homepage": "https://github.com/javimata/php-landing",
     "authors": [
         {
             "name": "Javi Mata",
