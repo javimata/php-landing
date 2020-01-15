@@ -14,8 +14,9 @@
         "php": ">=5.6"
     },
     "autoload": {
-        "psr-4": {
-            "": "src/"
-        }
+        "files": [
+            "src/functions.php",
+            "src/process.php"
+        ]
     }
 }
